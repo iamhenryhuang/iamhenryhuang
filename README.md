@@ -5,8 +5,9 @@
 - 📫 How to reach me Email : henry.curry1008@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="266" />
 
-## Languages & Tools 
+### Languages & Tools 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
