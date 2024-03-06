@@ -17,14 +17,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=github_dark_dimmed" alt="Henry Huang's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
-  <br />
-  <a href="https://github.com/gnitoahc/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnitoahc&theme=github_dark_dimmed" alt="GNITOAHC's streak" />
-  </a>
-  <br />
-  <a href="https://github.com/gnitoahc/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnitoahc&theme=github" alt="Activity Graph" />
-  </a>
 </p>
 
 <!---
