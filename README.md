@@ -2,7 +2,9 @@
 - 👀 I’m interested in swimming, playing basketball and learning new skills
 - 🌱 I’m currently learning Computer Science in NCCU
 - 💞️ I’m looking to collaborate on with involving in coding newbies
-- 📫 How to reach me Email : henry.curry1008@gmail.com
+- 📫 How to reach me
+  - Email: [henry.curry1008@gmail.com](mailto:henry.curry1008@gmail.com)
+  - LinkedIn: [Po-Yuan (Henry), Huang](https://www.linkedin.com/in/iamhenryhuang000/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
 
