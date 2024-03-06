@@ -5,6 +5,7 @@
 - 📫 How to reach me Email : henry.curry1008@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
+- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 <!---
 iamhenryhuang/iamhenryhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
