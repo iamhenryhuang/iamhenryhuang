@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m @iamhenryhuang
+**👋Hi, I'm Henry**
 - 👀 I’m interested in swimming, playing basketball and learning new skills
 - 🌱 I’m currently learning Computer Science in NCCU
 - 💞️ I’m looking to collaborate on with involving in coding newbies
