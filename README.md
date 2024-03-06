@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang"/>
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=[iamhenryhuang]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 
 <!---
 iamhenryhuang/iamhenryhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
