@@ -1,6 +1,6 @@
 **👋Hi, I'm Henry**
 - 👀 I’m interested in swimming and learning new skills
-- 🌱 I’m currently learning Computer Science in NCCU
+- 🌱 I’m currently studying Computer Science in NCCU
 - 📫 How to reach me
   - Email: [henry.curry1008@gmail.com](mailto:henry.curry1008@gmail.com)
   <!--- - LinkedIn: [Po-Yuan (Henry) Huang](https://www.linkedin.com/in/iamhenryhuang000/) --->
