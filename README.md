@@ -21,7 +21,7 @@
 
 **GitHub Analytics**
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
   <!--- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=github_dark_dimmed" alt="Henry Huang's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
