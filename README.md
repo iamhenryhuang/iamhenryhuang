@@ -7,6 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
 **Languages & Tools**
 
@@ -19,9 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
 
-**GitHub Analytics**
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+  
   <!--- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=github_dark_dimmed" alt="Henry Huang's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
