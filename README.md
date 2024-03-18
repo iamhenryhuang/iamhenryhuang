@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 **👋Hi, I'm Henry**
 - 👀 I’m interested in swimming and learning new skills
 - 🌱 I’m currently studying Computer Science in NCCU
@@ -7,7 +8,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
 **Languages & Tools**
 
