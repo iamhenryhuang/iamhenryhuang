@@ -1,11 +1,11 @@
 **👋Hi, I'm Henry**
- 👀 I’m interested in swimming and learning new skills
- 🌱 I’m currently studying Computer Science in NCCU
- 📫 How to reach me
+- 👀 I’m interested in swimming and learning new skills
+- 🌱 I’m currently studying Computer Science in NCCU
+- 📫 How to reach me
   - Email: [henry.curry1008@gmail.com](mailto:henry.curry1008@gmail.com)
   - LinkedIn: [Po-Yuan (Henry) Huang](https://www.linkedin.com/in/iamhenryhuang000/)
- 😄 Pronouns: he/him
- ⚡ Fun fact: Varsity Swimming Team Member
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Varsity Swimming Team Member
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
