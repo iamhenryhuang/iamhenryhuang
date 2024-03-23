@@ -6,7 +6,8 @@
   <!--- - LinkedIn: [Po-Yuan (Henry) Huang](https://www.linkedin.com/in/iamhenryhuang000/) --->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Varsity Swimming Team Member
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,vim)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,vim)](https://skillicons.dev)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
