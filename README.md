@@ -9,7 +9,7 @@
 
 **Languages & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,html,css,git,vim)](https://skillicons.dev)
 
 **Henry's GitHub's stats**
 
