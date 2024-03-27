@@ -10,9 +10,10 @@
 **Languages & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,js,html,css,git,vim)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=gruvbox)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=iamhenryhuang&theme=vue-dark&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=gruvbox)
 <!--- ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=iamhenryhuang&theme=gruvbox/theme=vue-dark) --->
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/> --->
 
