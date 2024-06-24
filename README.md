@@ -9,7 +9,7 @@
 
 **Languages & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,visualstudio,vim,juypternotebook,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,visualstudio,vim,juypter,git)](https://skillicons.dev)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=iamhenryhuang&theme=vue-dark&show_icons=true&count_private=true)
