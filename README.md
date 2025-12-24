@@ -1,8 +1,11 @@
 # 🌊 Hello, I'm Henry! 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=41B883&width=435&lines=%F0%9F%8C%8A+Hello%2C+I'm+Henry!" />
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
 <a href="https://skillicons.dev">
@@ -12,7 +15,7 @@
 
 ---
 
-### 📊 Github Stats
+### Github Stats
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
@@ -21,6 +24,6 @@
 
 ---
 
-### 📫 Let's Connect!
+### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhenryhuang000/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.curry1008@gmail.com)
