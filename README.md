@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux" />
 </a>
 </p>
 
