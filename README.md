@@ -1,6 +1,6 @@
 # 🌊 Hello, I'm Henry! 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=41B883&width=435&lines=%F0%9F%8C%8A+Hello%2C+I'm+Henry!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=41B883&vCenter=true&width=435&lines=%F0%9F%8C%8A+Hello%2C+I'm+Henry!" />
 </p>
 
 ---
