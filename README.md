@@ -1,4 +1,4 @@
-# 🌊 Hello, I'm Henry Huang ! 
+# 🌊 Hello, I'm Henry! 
 
 ---
 
@@ -15,8 +15,8 @@
 ### 📊 Github Stats
 
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=vue-dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=vue-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=vue-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
