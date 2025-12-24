@@ -1,45 +1,34 @@
-**👋Hi, I'm Henry**
-- 👀 I’m interested in swimming and learning new skills
-- 👨🏻‍💻 I’m currently studying Computer Science in National Chengchi University
-- 📫 How to reach me
-  - Email: [henry.curry1008@gmail.com](mailto:henry.curry1008@gmail.com)
-  <!--- - LinkedIn: [Po-Yuan (Henry) Huang](https://www.linkedin.com/in/iamhenryhuang000/) --->
-<!--- - 😄 Pronouns: he/him
-- ⚡ Fun fact: Varsity Swimming Team Member --->
+# 🌊 Hello, I'm Henry Huang ! 
 
-**Languages & Tools**
+### 🚀 NCCU Computer Science | Varsity Swimmer | Tech Enthusiast
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,visualstudio,vim,git)](https://skillicons.dev)
+I'm a CS student at **National Chengchi University** who loves building efficient solutions and pushing limits—whether it's in the pool or in the terminal.
 
+- 🏊‍♂️ **Varsity Swimming Team Member** at NCCU.
+- 💻 Currently diving deep into **[你目前的學習重點，例如：Backend / AI / Web Dev]**.
+- 🛠 Seeking opportunities for **Summer 2026 Internships**.
 
-![](https://github-readme-stats.vercel.app/api?username=iamhenryhuang&theme=vue-dark&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=vue-dark)
-<!--- ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=iamhenryhuang&theme=gruvbox/theme=vue-dark) --->
-<!--- <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/> --->
+---
 
+### 🛠 Tech Stack & Tools
 
-
-<!---
-**Languages & Tools**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
---->
-
-<!---
-<p align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=github_dark_dimmed" alt="Henry Huang's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,visualstudio,vim,git,linux,mysql" />
+</a>
 </p>
---->
 
-<!---
-iamhenryhuang/iamhenryhuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 Github Stats
+
+<p align="left">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=vue-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=vue-dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn網址)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.curry1008@gmail.com)
