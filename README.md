@@ -13,17 +13,8 @@
 
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux,pytorch" />
 </a>
-</p>
-
----
-
-### Github Stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamhenryhuang&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamhenryhuang&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
