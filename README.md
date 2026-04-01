@@ -10,11 +10,7 @@
 
 ### GitHub Stats
 
-<p align="center">
-
-<img height="160px"
-src="https://github-readme-stats.vercel.app/api?username=iamhenryhuang&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-
+<p align="center"> <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamhenryhuang&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /> 
 </p>
 
 <p align="center">
