@@ -22,3 +22,8 @@
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhenryhuang000/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.curry1008@gmail.com)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamhenryhuang/iamhenryhuang/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/iamhenryhuang/iamhenryhuang/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
