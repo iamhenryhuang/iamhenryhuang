@@ -22,7 +22,7 @@
 
 ### Tech Stack & Tools
 
-<p align="center">
+<p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux,docker,pytorch,tensorflow,mysql,postgres" />
 </a>
