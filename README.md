@@ -10,9 +10,6 @@
 
 ### GitHub Stats
 
-<p align="center"> <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamhenryhuang&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /> 
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamhenryhuang/iamhenryhuang/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/iamhenryhuang/iamhenryhuang/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
