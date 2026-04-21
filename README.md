@@ -17,16 +17,6 @@
 
 ---
 
-### Tech Stack & Tools
-
-<p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux,docker,pytorch,tensorflow,mysql,postgres" />
-</a>
-</p>
-
----
-
 ### Contact
 
 <p align="center">
