@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/bear7066">
+  <a href="https://github.com/iamhenryhuang">
     <img
       width="460"
       src="https://streak-stats.demolab.com?user=iamhenryhuang&amp;theme=tokyonight&amp;hide_border=true"
