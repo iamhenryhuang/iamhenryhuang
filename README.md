@@ -8,7 +8,7 @@
   <a href="https://github.com/iamhenryhuang">
     <img
       width="460"
-      src="https://streak-stats.demolab.com?user=iamhenryhuang&amp;theme=tokyonight&amp;hide_border=true&amp;v=1"
+      src="https://streak-stats.demolab.com?user=iamhenryhuang&amp;theme=tokyonight&amp;hide_border=true&amp;v=1&amp;refresh=1"
       alt="GitHub Streak"
     />
   </a>
