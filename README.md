@@ -1,4 +1,4 @@
 ### Hi there 👋
 <pre>
-[!] Deep Learning / Machine Learning Research
+[!] Deep Learning / Machine Learning / Computer Vision Research
 </pre>
