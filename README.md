@@ -1,5 +1,3 @@
-### Hi there 👋
 <pre>
-[!] Deep Learning / Machine Learning Research
-[!] AI Engineering Intern @Hyson Technology Inc.
+[!] Deep Learning / Machine Learning / Computer Vision Research
 </pre>
