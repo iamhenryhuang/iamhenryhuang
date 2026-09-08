@@ -1,2 +1,2 @@
-BS CS @NCCU
+BS CS @NCCU  
 📍 Taipei, TW
