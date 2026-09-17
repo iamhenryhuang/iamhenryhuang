@@ -1,13 +1,3 @@
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=iamhenryhuang&color=58A6FF&style=flat-square)](https://github.com/iamhenryhuang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhenryhuang000/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henry.curry1008@gmail.com)
-
-</div>
-
----
-
 ### Tech Stack
 
 **Languages**
